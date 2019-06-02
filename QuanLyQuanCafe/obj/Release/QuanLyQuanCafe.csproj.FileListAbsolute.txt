@@ -1,0 +1,16 @@
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.View.DangKiForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.GoiMonForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.LoginForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.ManangerForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.QuanLyDoanhThu.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.QuanLyKhachHang.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.QuanLyNhaHangForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.QuanLyNhanVienForm.resources
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
+D:\DoAn\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
